@@ -39,7 +39,7 @@ end
 -- Basic UI
 hi("Normal", colors.fg, colors.bg)
 hi("NonText", colors.fg, colors.bg)
-hi("LineNr", "#555555", colors.bg)
+hi("LineNr", "#888888", colors.bg)
 hi("CursorLineNr", colors.fg, colors.bg, "bold")
 hi("CursorLine", nil, "#2a2a2a")
 hi("CursorColumn", nil, "#2a2a2a")
